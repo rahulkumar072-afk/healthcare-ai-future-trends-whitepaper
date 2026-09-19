@@ -1,0 +1,9 @@
+Real-world example,Published data/finding,Source,URL
+TREWS sepsis AI,"6,877 sepsis patients; provider confirmation within 3 h was associated with 3.3% adjusted absolute and 18.7% adjusted relative mortality reduction",Nature Medicine 2022,https://www.nature.com/articles/s41591-022-01894-0
+Lausanne sepsis learning system,"97,559 intervention-ward stays vs 25,851 control-ward stays; mortality decreased for AI-flagged sepsis in intervention wards",npj Digital Medicine 2025,https://www.nature.com/articles/s41746-025-02180-2
+Rentosertib AI drug discovery,71-patient randomized phase 2a; 60 mg QD mean FVC change +98.4 mL vs -20.3 mL placebo,Nature Medicine 2025,https://www.nature.com/articles/s41591-025-03743-2
+Rentosertib development,AI-driven target discovery to preclinical candidate nomination reported in ~18 months; phase I included 78 healthy participants,Nature Biotechnology 2024,https://www.nature.com/articles/s41587-024-02143-0
+AlphaFold DB,>200 million protein structure predictions available,EMBL-EBI,https://www.ebi.ac.uk/about/news/technology-and-innovation/alphafold-200-million/
+CheXpert,"224,316 chest radiographs from 65,240 patients",Stanford AIMI,https://aimi.stanford.edu/datasets/chexpert-chest-x-rays
+MIMIC-IV v3.0,"364,627 individuals; 546,028 hospitalizations; 94,458 ICU stays",PhysioNet,https://physionet.org/content/mimiciv/3.0/
+IDx-DR,FDA De Novo classification granted 11 April 2018 for diabetic-retinopathy detection device,FDA,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/denovo.cfm?ID=DEN180001

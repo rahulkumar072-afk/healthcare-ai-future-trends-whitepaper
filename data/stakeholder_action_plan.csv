@@ -1,0 +1,8 @@
+Stakeholder,Priority,Action
+Patients,"Safety, privacy, transparency","Disclosure, feedback and escalation"
+Clinicians/pharmacists,Clinical utility and accountability,"Co-design, training, override and error reporting"
+Hospitals,"Outcomes, cost, integration","Governance, procurement evidence and monitoring"
+Developers,Validation and security,"Documentation, subgroup tests, audit logs"
+Researchers,External validity,Independent validation and reproducibility
+Pharma/biotech,Scientific validity,AI hypotheses followed by lab/clinical validation
+Regulators/policy makers,Safety and innovation,Risk-based oversight and standards
