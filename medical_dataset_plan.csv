@@ -1,3 +1,0 @@
-Dataset,Type,Scale,Access,Use,Source
-MIMIC-IV v3.0,EHR/ICU,"364,627 individuals; 546,028 hospitalizations; 94,458 ICU stays",Credentialed access + DUA,Clinical prediction / external validation,https://physionet.org/content/mimiciv/3.0/
-CheXpert,Chest radiography,"224,316 radiographs; 65,240 patients",Research-use terms,Imaging model development/benchmarking,https://aimi.stanford.edu/datasets/chexpert-chest-x-rays
