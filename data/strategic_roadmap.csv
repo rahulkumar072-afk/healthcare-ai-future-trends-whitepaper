@@ -1,6 +1,0 @@
-Time,Stage,Actions,Deliverable
-0–6 months,Govern,"AI inventory, risk tiers, owners, data map, incident process",Governance charter
-6–12 months,Measure,"Baseline, clinical endpoints, subgroup metrics, calibration",Evaluation protocol
-12–24 months,Pilot,"Prospective/silent evaluation, workflow integration, human oversight",Evidence pack
-24–36 months,Scale,"Interoperability, drift monitoring, vendor change control",Production monitoring
-36–60 months,Advance,"Multimodal, constrained agentic, precision medicine pilots",Advanced AI portfolio
